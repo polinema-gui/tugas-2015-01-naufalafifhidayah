@@ -1,0 +1,31 @@
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.pdb
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Form1.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Resources.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.vbproj.GenerateResource.Cache
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
+G:\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.exe
+G:\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.pdb
+G:\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.xml
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Form1.resources
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Resources.resources
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\ResolveAssemblyReference.cache
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\GenerateResource.read.1.tlog
+G:\Aplikasi Warna\Aplikasi Warna\obj\Debug\GenerateResource.write.1.tlog
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.exe
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.pdb
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.xml
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\ResolveAssemblyReference.cache
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Form1.resources
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Resources.resources
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\GenerateResource.read.1.tlog
+D:\SEMESTER 2\Kelas 2D MI polinema semester I\pemrograman GUI\Aplikasi Warna\Aplikasi Warna\obj\Debug\GenerateResource.write.1.tlog
